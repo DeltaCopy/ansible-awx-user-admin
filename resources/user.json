@@ -1,0 +1,11 @@
+{
+    "username": "${username}",
+    "first_name": "${firstname}",
+    "last_name": "${lastname}",
+    "email": "${email}",
+    "is_superuser": ${is_superuser},
+    "is_system_auditor": ${is_system_auditor},
+    "password": "${password}",
+    "last_login": null
+}
+

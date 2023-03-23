@@ -1,0 +1,8 @@
+username,firstname,lastname,email,is_superuser,is_system_auditor,password
+user1,user_firstname,user_lastname,email@noreply.com,FALSE,FALSE,changeme
+user2,user_firstname,user_lastname,email@noreply.com,FALSE,FALSE,changeme
+user3,user_firstname,user_lastname,email@noreply.com,FALSE,FALSE,changeme
+user4,user_firstname,user_lastname,email@noreply.com,FALSE,FALSE,changeme
+user5,user_firstname,user_lastname,email@noreply.com,FALSE,FALSE,changeme
+user6,user_firstname,user_lastname,email@noreply.com,FALSE,FALSE,changeme
+user7,user_firstname,user_lastname,email@noreply.com,FALSE,FALSE,changeme

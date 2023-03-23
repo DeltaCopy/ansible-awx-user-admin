@@ -1,0 +1,15 @@
+usage: awx_users_admin.py [-h] [--userid USERID] [--config CONFIG]
+
+
+
+Ansible AWX User creator.
+
+
+
+optional arguments:
+
+  -h, --help       show this help message and exit
+
+  --userid USERID  Specify the userid to connect to the AWX API.
+
+  --config CONFIG  Specify the config json file.

@@ -1,0 +1,21 @@
+{
+
+    "settings": [
+
+        {
+
+            "awx_server_url": "<replace with AWX server url>",
+
+            "api_version": 2,
+
+            "userid": "admin",
+
+            "token": "<replace with OAuth2 token>",
+
+            "user_csv": "users.csv"
+
+        }
+
+    ]
+
+}
